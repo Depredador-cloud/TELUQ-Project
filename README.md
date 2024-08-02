@@ -15,7 +15,7 @@ PROJETS DE FIN D'ÉTUDE
 Prédiction de la consommation d’électricité, de
 l’eau et du gaz naturel
 Superviseur :
-Belkacem Chikhaoui
+Henni, Khadidja
 Domaine(s) :
 Intelligence artificielle
 Science des données
